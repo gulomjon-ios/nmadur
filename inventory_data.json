@@ -1,0 +1,947 @@
+{
+  "ELE-4019": {
+    "sku": "ELE-4019",
+    "name": "Electronics X38",
+    "price": 568.45,
+    "stock": 99,
+    "category": "electronics"
+  },
+  "ELE-3181": {
+    "sku": "ELE-3181",
+    "name": "Electronics Lite32",
+    "price": 943.29,
+    "stock": 265,
+    "category": "electronics"
+  },
+  "OFF-4127": {
+    "sku": "OFF-4127",
+    "name": "Office Max81",
+    "price": 588.99,
+    "stock": 5,
+    "category": "office"
+  },
+  "SPO-4272": {
+    "sku": "SPO-4272",
+    "name": "Sport Lite72",
+    "price": 101.41,
+    "stock": 3,
+    "category": "sport"
+  },
+  "ELE-1846": {
+    "sku": "ELE-1846",
+    "name": "Electronics Lite98",
+    "price": 851.39,
+    "stock": 140,
+    "category": "electronics"
+  },
+  "OFF-3187": {
+    "sku": "OFF-3187",
+    "name": "Office X1",
+    "price": 972.2,
+    "stock": 15,
+    "category": "office"
+  },
+  "ELE-2329": {
+    "sku": "ELE-2329",
+    "name": "Electronics X88",
+    "price": 38.67,
+    "stock": 192,
+    "category": "electronics"
+  },
+  "OFF-6904": {
+    "sku": "OFF-6904",
+    "name": "Office Ultra78",
+    "price": 118.6,
+    "stock": 143,
+    "category": "office"
+  },
+  "HOM-8147": {
+    "sku": "HOM-8147",
+    "name": "Home Pro63",
+    "price": 937.05,
+    "stock": 177,
+    "category": "home"
+  },
+  "SPO-7372": {
+    "sku": "SPO-7372",
+    "name": "Sport Ultra92",
+    "price": 754.46,
+    "stock": 11,
+    "category": "sport"
+  },
+  "OFF-2555": {
+    "sku": "OFF-2555",
+    "name": "Office X4",
+    "price": 633.17,
+    "stock": 74,
+    "category": "office"
+  },
+  "ELE-3014": {
+    "sku": "ELE-3014",
+    "name": "Electronics Ultra73",
+    "price": 707.34,
+    "stock": 181,
+    "category": "electronics"
+  },
+  "ELE-4980": {
+    "sku": "ELE-4980",
+    "name": "Electronics X24",
+    "price": 783.79,
+    "stock": 115,
+    "category": "electronics"
+  },
+  "ELE-1013": {
+    "sku": "ELE-1013",
+    "name": "Electronics Lite83",
+    "price": 666.41,
+    "stock": 94,
+    "category": "electronics"
+  },
+  "SPO-2421": {
+    "sku": "SPO-2421",
+    "name": "Sport X13",
+    "price": 239.59,
+    "stock": 152,
+    "category": "sport"
+  },
+  "HOM-4908": {
+    "sku": "HOM-4908",
+    "name": "Home Ultra50",
+    "price": 667.9,
+    "stock": 213,
+    "category": "home"
+  },
+  "OFF-8104": {
+    "sku": "OFF-8104",
+    "name": "Office Pro94",
+    "price": 553.84,
+    "stock": 107,
+    "category": "office"
+  },
+  "HOM-2297": {
+    "sku": "HOM-2297",
+    "name": "Home Pro61",
+    "price": 209.11,
+    "stock": 95,
+    "category": "home"
+  },
+  "SPO-2416": {
+    "sku": "SPO-2416",
+    "name": "Sport X65",
+    "price": 128.58,
+    "stock": 47,
+    "category": "sport"
+  },
+  "SPO-6053": {
+    "sku": "SPO-6053",
+    "name": "Sport Pro31",
+    "price": 56.26,
+    "stock": 202,
+    "category": "sport"
+  },
+  "SPO-9552": {
+    "sku": "SPO-9552",
+    "name": "Sport Lite36",
+    "price": 192.11,
+    "stock": 96,
+    "category": "sport"
+  },
+  "ELE-8092": {
+    "sku": "ELE-8092",
+    "name": "Electronics X39",
+    "price": 431.74,
+    "stock": 148,
+    "category": "electronics"
+  },
+  "ELE-5112": {
+    "sku": "ELE-5112",
+    "name": "Electronics Ultra77",
+    "price": 437.03,
+    "stock": 26,
+    "category": "electronics"
+  },
+  "OFF-8332": {
+    "sku": "OFF-8332",
+    "name": "Office Lite86",
+    "price": 94.6,
+    "stock": 115,
+    "category": "office"
+  },
+  "ELE-4703": {
+    "sku": "ELE-4703",
+    "name": "Electronics Ultra70",
+    "price": 266.79,
+    "stock": 198,
+    "category": "electronics"
+  },
+  "HOM-8992": {
+    "sku": "HOM-8992",
+    "name": "Home Ultra98",
+    "price": 210.13,
+    "stock": 121,
+    "category": "home"
+  },
+  "SPO-6165": {
+    "sku": "SPO-6165",
+    "name": "Sport X81",
+    "price": 198.28,
+    "stock": 56,
+    "category": "sport"
+  },
+  "OFF-6443": {
+    "sku": "OFF-6443",
+    "name": "Office X21",
+    "price": 613.55,
+    "stock": 3,
+    "category": "office"
+  },
+  "OFF-2748": {
+    "sku": "OFF-2748",
+    "name": "Office Pro16",
+    "price": 488.54,
+    "stock": 47,
+    "category": "office"
+  },
+  "HOM-7676": {
+    "sku": "HOM-7676",
+    "name": "Home X85",
+    "price": 312.19,
+    "stock": 219,
+    "category": "home"
+  },
+  "OFF-6744": {
+    "sku": "OFF-6744",
+    "name": "Office Lite78",
+    "price": 830.44,
+    "stock": 237,
+    "category": "office"
+  },
+  "ELE-3661": {
+    "sku": "ELE-3661",
+    "name": "Electronics X89",
+    "price": 313.82,
+    "stock": 229,
+    "category": "electronics"
+  },
+  "OFF-8009": {
+    "sku": "OFF-8009",
+    "name": "Office Ultra83",
+    "price": 905.13,
+    "stock": 226,
+    "category": "office"
+  },
+  "ELE-9412": {
+    "sku": "ELE-9412",
+    "name": "Electronics X59",
+    "price": 446.29,
+    "stock": 230,
+    "category": "electronics"
+  },
+  "OFF-5754": {
+    "sku": "OFF-5754",
+    "name": "Office Max91",
+    "price": 11.92,
+    "stock": 219,
+    "category": "office"
+  },
+  "OFF-2653": {
+    "sku": "OFF-2653",
+    "name": "Office Lite51",
+    "price": 260.47,
+    "stock": 201,
+    "category": "office"
+  },
+  "ELE-5193": {
+    "sku": "ELE-5193",
+    "name": "Electronics Ultra42",
+    "price": 762.43,
+    "stock": 32,
+    "category": "electronics"
+  },
+  "HOM-8407": {
+    "sku": "HOM-8407",
+    "name": "Home Lite30",
+    "price": 252.17,
+    "stock": 138,
+    "category": "home"
+  },
+  "HOM-9749": {
+    "sku": "HOM-9749",
+    "name": "Home X84",
+    "price": 282.2,
+    "stock": 222,
+    "category": "home"
+  },
+  "SPO-7611": {
+    "sku": "SPO-7611",
+    "name": "Sport Lite76",
+    "price": 825.16,
+    "stock": 8,
+    "category": "sport"
+  },
+  "OFF-8092": {
+    "sku": "OFF-8092",
+    "name": "Office Lite48",
+    "price": 475.63,
+    "stock": 204,
+    "category": "office"
+  },
+  "ELE-2918": {
+    "sku": "ELE-2918",
+    "name": "Electronics Lite68",
+    "price": 771.09,
+    "stock": 156,
+    "category": "electronics"
+  },
+  "ELE-8116": {
+    "sku": "ELE-8116",
+    "name": "Electronics X39",
+    "price": 883.8,
+    "stock": 10,
+    "category": "electronics"
+  },
+  "HOM-5343": {
+    "sku": "HOM-5343",
+    "name": "Home Max50",
+    "price": 400.41,
+    "stock": 186,
+    "category": "home"
+  },
+  "OFF-8024": {
+    "sku": "OFF-8024",
+    "name": "Office Max18",
+    "price": 627.4,
+    "stock": 41,
+    "category": "office"
+  },
+  "HOM-7683": {
+    "sku": "HOM-7683",
+    "name": "Home Pro37",
+    "price": 508.55,
+    "stock": 26,
+    "category": "home"
+  },
+  "SPO-1439": {
+    "sku": "SPO-1439",
+    "name": "Sport X35",
+    "price": 839.87,
+    "stock": 232,
+    "category": "sport"
+  },
+  "HOM-2494": {
+    "sku": "HOM-2494",
+    "name": "Home Max24",
+    "price": 292.9,
+    "stock": 208,
+    "category": "home"
+  },
+  "ELE-9689": {
+    "sku": "ELE-9689",
+    "name": "Electronics X45",
+    "price": 581.76,
+    "stock": 195,
+    "category": "electronics"
+  },
+  "HOM-7854": {
+    "sku": "HOM-7854",
+    "name": "Home Lite62",
+    "price": 589.92,
+    "stock": 189,
+    "category": "home"
+  },
+  "SPO-9825": {
+    "sku": "SPO-9825",
+    "name": "Sport X6",
+    "price": 636.49,
+    "stock": 152,
+    "category": "sport"
+  },
+  "SPO-7928": {
+    "sku": "SPO-7928",
+    "name": "Sport Pro96",
+    "price": 402.71,
+    "stock": 109,
+    "category": "sport"
+  },
+  "ELE-2747": {
+    "sku": "ELE-2747",
+    "name": "Electronics Max79",
+    "price": 238.96,
+    "stock": 72,
+    "category": "electronics"
+  },
+  "OFF-9106": {
+    "sku": "OFF-9106",
+    "name": "Office X91",
+    "price": 102.68,
+    "stock": 1,
+    "category": "office"
+  },
+  "HOM-5811": {
+    "sku": "HOM-5811",
+    "name": "Home Pro86",
+    "price": 441.24,
+    "stock": 132,
+    "category": "home"
+  },
+  "HOM-4045": {
+    "sku": "HOM-4045",
+    "name": "Home Pro6",
+    "price": 311.53,
+    "stock": 25,
+    "category": "home"
+  },
+  "HOM-5241": {
+    "sku": "HOM-5241",
+    "name": "Home Ultra99",
+    "price": 432.55,
+    "stock": 210,
+    "category": "home"
+  },
+  "SPO-2950": {
+    "sku": "SPO-2950",
+    "name": "Sport Pro79",
+    "price": 973.84,
+    "stock": 75,
+    "category": "sport"
+  },
+  "HOM-6539": {
+    "sku": "HOM-6539",
+    "name": "Home Lite79",
+    "price": 983.0,
+    "stock": 242,
+    "category": "home"
+  },
+  "OFF-6497": {
+    "sku": "OFF-6497",
+    "name": "Office Pro7",
+    "price": 923.68,
+    "stock": 177,
+    "category": "office"
+  },
+  "OFF-6785": {
+    "sku": "OFF-6785",
+    "name": "Office Max60",
+    "price": 812.65,
+    "stock": 203,
+    "category": "office"
+  },
+  "ELE-5286": {
+    "sku": "ELE-5286",
+    "name": "Electronics Lite89",
+    "price": 784.79,
+    "stock": 49,
+    "category": "electronics"
+  },
+  "HOM-7964": {
+    "sku": "HOM-7964",
+    "name": "Home Ultra74",
+    "price": 238.26,
+    "stock": 113,
+    "category": "home"
+  },
+  "HOM-5972": {
+    "sku": "HOM-5972",
+    "name": "Home Pro94",
+    "price": 647.58,
+    "stock": 186,
+    "category": "home"
+  },
+  "SPO-2487": {
+    "sku": "SPO-2487",
+    "name": "Sport Ultra40",
+    "price": 574.34,
+    "stock": 41,
+    "category": "sport"
+  },
+  "OFF-1403": {
+    "sku": "OFF-1403",
+    "name": "Office X33",
+    "price": 805.67,
+    "stock": 11,
+    "category": "office"
+  },
+  "HOM-9685": {
+    "sku": "HOM-9685",
+    "name": "Home Max82",
+    "price": 794.22,
+    "stock": 137,
+    "category": "home"
+  },
+  "SPO-2064": {
+    "sku": "SPO-2064",
+    "name": "Sport Lite45",
+    "price": 764.13,
+    "stock": 136,
+    "category": "sport"
+  },
+  "OFF-1952": {
+    "sku": "OFF-1952",
+    "name": "Office Lite74",
+    "price": 686.7,
+    "stock": 103,
+    "category": "office"
+  },
+  "HOM-4875": {
+    "sku": "HOM-4875",
+    "name": "Home Pro66",
+    "price": 604.95,
+    "stock": 236,
+    "category": "home"
+  },
+  "ELE-3708": {
+    "sku": "ELE-3708",
+    "name": "Electronics Lite34",
+    "price": 839.0,
+    "stock": 57,
+    "category": "electronics"
+  },
+  "ELE-5855": {
+    "sku": "ELE-5855",
+    "name": "Electronics Max39",
+    "price": 924.86,
+    "stock": 134,
+    "category": "electronics"
+  },
+  "OFF-1736": {
+    "sku": "OFF-1736",
+    "name": "Office X16",
+    "price": 762.45,
+    "stock": 195,
+    "category": "office"
+  },
+  "ELE-2287": {
+    "sku": "ELE-2287",
+    "name": "Electronics Ultra50",
+    "price": 590.4,
+    "stock": 151,
+    "category": "electronics"
+  },
+  "ELE-3749": {
+    "sku": "ELE-3749",
+    "name": "Electronics Pro45",
+    "price": 857.27,
+    "stock": 200,
+    "category": "electronics"
+  },
+  "OFF-2575": {
+    "sku": "OFF-2575",
+    "name": "Office Pro57",
+    "price": 497.89,
+    "stock": 178,
+    "category": "office"
+  },
+  "OFF-5835": {
+    "sku": "OFF-5835",
+    "name": "Office X31",
+    "price": 989.77,
+    "stock": 84,
+    "category": "office"
+  },
+  "OFF-6367": {
+    "sku": "OFF-6367",
+    "name": "Office Pro98",
+    "price": 623.38,
+    "stock": 35,
+    "category": "office"
+  },
+  "ELE-8944": {
+    "sku": "ELE-8944",
+    "name": "Electronics Pro6",
+    "price": 679.33,
+    "stock": 11,
+    "category": "electronics"
+  },
+  "HOM-3333": {
+    "sku": "HOM-3333",
+    "name": "Home Max36",
+    "price": 712.1,
+    "stock": 98,
+    "category": "home"
+  },
+  "ELE-9475": {
+    "sku": "ELE-9475",
+    "name": "Electronics Lite97",
+    "price": 755.35,
+    "stock": 127,
+    "category": "electronics"
+  },
+  "HOM-7109": {
+    "sku": "HOM-7109",
+    "name": "Home X76",
+    "price": 478.06,
+    "stock": 71,
+    "category": "home"
+  },
+  "HOM-1806": {
+    "sku": "HOM-1806",
+    "name": "Home X62",
+    "price": 148.52,
+    "stock": 15,
+    "category": "home"
+  },
+  "HOM-1566": {
+    "sku": "HOM-1566",
+    "name": "Home Pro60",
+    "price": 703.37,
+    "stock": 199,
+    "category": "home"
+  },
+  "SPO-8235": {
+    "sku": "SPO-8235",
+    "name": "Sport Max75",
+    "price": 356.14,
+    "stock": 71,
+    "category": "sport"
+  },
+  "HOM-9032": {
+    "sku": "HOM-9032",
+    "name": "Home Lite40",
+    "price": 714.6,
+    "stock": 78,
+    "category": "home"
+  },
+  "SPO-6662": {
+    "sku": "SPO-6662",
+    "name": "Sport X29",
+    "price": 530.32,
+    "stock": 166,
+    "category": "sport"
+  },
+  "HOM-1929": {
+    "sku": "HOM-1929",
+    "name": "Home Lite96",
+    "price": 95.68,
+    "stock": 237,
+    "category": "home"
+  },
+  "SPO-4474": {
+    "sku": "SPO-4474",
+    "name": "Sport Pro72",
+    "price": 877.44,
+    "stock": 41,
+    "category": "sport"
+  },
+  "OFF-9494": {
+    "sku": "OFF-9494",
+    "name": "Office X86",
+    "price": 442.17,
+    "stock": 185,
+    "category": "office"
+  },
+  "OFF-2681": {
+    "sku": "OFF-2681",
+    "name": "Office Ultra56",
+    "price": 308.22,
+    "stock": 105,
+    "category": "office"
+  },
+  "SPO-5949": {
+    "sku": "SPO-5949",
+    "name": "Sport Max18",
+    "price": 165.85,
+    "stock": 237,
+    "category": "sport"
+  },
+  "HOM-1253": {
+    "sku": "HOM-1253",
+    "name": "Home Ultra47",
+    "price": 416.78,
+    "stock": 183,
+    "category": "home"
+  },
+  "SPO-6798": {
+    "sku": "SPO-6798",
+    "name": "Sport Pro31",
+    "price": 668.04,
+    "stock": 5,
+    "category": "sport"
+  },
+  "ELE-6018": {
+    "sku": "ELE-6018",
+    "name": "Electronics Max17",
+    "price": 237.44,
+    "stock": 171,
+    "category": "electronics"
+  },
+  "OFF-6350": {
+    "sku": "OFF-6350",
+    "name": "Office Lite81",
+    "price": 224.17,
+    "stock": 232,
+    "category": "office"
+  },
+  "OFF-8320": {
+    "sku": "OFF-8320",
+    "name": "Office Max61",
+    "price": 14.92,
+    "stock": 217,
+    "category": "office"
+  },
+  "SPO-4473": {
+    "sku": "SPO-4473",
+    "name": "Sport X25",
+    "price": 276.38,
+    "stock": 197,
+    "category": "sport"
+  },
+  "SPO-3944": {
+    "sku": "SPO-3944",
+    "name": "Sport Lite56",
+    "price": 127.68,
+    "stock": 132,
+    "category": "sport"
+  },
+  "SPO-3496": {
+    "sku": "SPO-3496",
+    "name": "Sport Pro81",
+    "price": 835.94,
+    "stock": 8,
+    "category": "sport"
+  },
+  "SPO-7215": {
+    "sku": "SPO-7215",
+    "name": "Sport Ultra49",
+    "price": 902.06,
+    "stock": 151,
+    "category": "sport"
+  },
+  "SPO-1457": {
+    "sku": "SPO-1457",
+    "name": "Sport Lite50",
+    "price": 738.1,
+    "stock": 2,
+    "category": "sport"
+  },
+  "SPO-5887": {
+    "sku": "SPO-5887",
+    "name": "Sport Pro28",
+    "price": 457.09,
+    "stock": 8,
+    "category": "sport"
+  },
+  "HOM-1285": {
+    "sku": "HOM-1285",
+    "name": "Home Pro52",
+    "price": 914.81,
+    "stock": 157,
+    "category": "home"
+  },
+  "SPO-8083": {
+    "sku": "SPO-8083",
+    "name": "Sport X10",
+    "price": 914.03,
+    "stock": 85,
+    "category": "sport"
+  },
+  "OFF-1035": {
+    "sku": "OFF-1035",
+    "name": "Office Ultra27",
+    "price": 775.82,
+    "stock": 158,
+    "category": "office"
+  },
+  "HOM-4816": {
+    "sku": "HOM-4816",
+    "name": "Home Pro63",
+    "price": 880.66,
+    "stock": 134,
+    "category": "home"
+  },
+  "HOM-2595": {
+    "sku": "HOM-2595",
+    "name": "Home Lite78",
+    "price": 10.7,
+    "stock": 29,
+    "category": "home"
+  },
+  "OFF-1496": {
+    "sku": "OFF-1496",
+    "name": "Office Ultra6",
+    "price": 29.47,
+    "stock": 152,
+    "category": "office"
+  },
+  "SPO-5716": {
+    "sku": "SPO-5716",
+    "name": "Sport Pro31",
+    "price": 292.06,
+    "stock": 88,
+    "category": "sport"
+  },
+  "HOM-2328": {
+    "sku": "HOM-2328",
+    "name": "Home Max84",
+    "price": 368.25,
+    "stock": 200,
+    "category": "home"
+  },
+  "HOM-6593": {
+    "sku": "HOM-6593",
+    "name": "Home Pro83",
+    "price": 383.54,
+    "stock": 219,
+    "category": "home"
+  },
+  "HOM-1626": {
+    "sku": "HOM-1626",
+    "name": "Home Pro51",
+    "price": 971.81,
+    "stock": 217,
+    "category": "home"
+  },
+  "SPO-6745": {
+    "sku": "SPO-6745",
+    "name": "Sport Pro40",
+    "price": 662.52,
+    "stock": 240,
+    "category": "sport"
+  },
+  "OFF-6518": {
+    "sku": "OFF-6518",
+    "name": "Office Lite39",
+    "price": 595.69,
+    "stock": 128,
+    "category": "office"
+  },
+  "HOM-7194": {
+    "sku": "HOM-7194",
+    "name": "Home Ultra41",
+    "price": 155.0,
+    "stock": 170,
+    "category": "home"
+  },
+  "OFF-2109": {
+    "sku": "OFF-2109",
+    "name": "Office Lite12",
+    "price": 367.17,
+    "stock": 248,
+    "category": "office"
+  },
+  "OFF-5172": {
+    "sku": "OFF-5172",
+    "name": "Office Pro77",
+    "price": 570.58,
+    "stock": 90,
+    "category": "office"
+  },
+  "SPO-8768": {
+    "sku": "SPO-8768",
+    "name": "Sport Lite81",
+    "price": 552.79,
+    "stock": 201,
+    "category": "sport"
+  },
+  "HOM-7787": {
+    "sku": "HOM-7787",
+    "name": "Home Lite15",
+    "price": 17.31,
+    "stock": 82,
+    "category": "home"
+  },
+  "SPO-1758": {
+    "sku": "SPO-1758",
+    "name": "Sport Pro33",
+    "price": 483.76,
+    "stock": 186,
+    "category": "sport"
+  },
+  "SPO-8494": {
+    "sku": "SPO-8494",
+    "name": "Sport Ultra78",
+    "price": 719.83,
+    "stock": 99,
+    "category": "sport"
+  },
+  "ELE-1881": {
+    "sku": "ELE-1881",
+    "name": "Electronics X77",
+    "price": 72.28,
+    "stock": 150,
+    "category": "electronics"
+  },
+  "ELE-7498": {
+    "sku": "ELE-7498",
+    "name": "Electronics Pro99",
+    "price": 824.41,
+    "stock": 8,
+    "category": "electronics"
+  },
+  "HOM-1879": {
+    "sku": "HOM-1879",
+    "name": "Home Ultra69",
+    "price": 194.38,
+    "stock": 92,
+    "category": "home"
+  },
+  "HOM-3093": {
+    "sku": "HOM-3093",
+    "name": "Home X11",
+    "price": 251.96,
+    "stock": 190,
+    "category": "home"
+  },
+  "HOM-9105": {
+    "sku": "HOM-9105",
+    "name": "Home Pro22",
+    "price": 334.16,
+    "stock": 119,
+    "category": "home"
+  },
+  "HOM-2367": {
+    "sku": "HOM-2367",
+    "name": "Home Pro43",
+    "price": 398.86,
+    "stock": 220,
+    "category": "home"
+  },
+  "ELE-1335": {
+    "sku": "ELE-1335",
+    "name": "Electronics Ultra92",
+    "price": 393.72,
+    "stock": 46,
+    "category": "electronics"
+  },
+  "OFF-2232": {
+    "sku": "OFF-2232",
+    "name": "Office X5",
+    "price": 155.83,
+    "stock": 178,
+    "category": "office"
+  },
+  "ELE-1774": {
+    "sku": "ELE-1774",
+    "name": "Electronics Lite45",
+    "price": 588.44,
+    "stock": 99,
+    "category": "electronics"
+  },
+  "ELE-7500": {
+    "sku": "ELE-7500",
+    "name": "Electronics Ultra37",
+    "price": 817.57,
+    "stock": 28,
+    "category": "electronics"
+  },
+  "OFF-1438": {
+    "sku": "OFF-1438",
+    "name": "Office X65",
+    "price": 893.13,
+    "stock": 87,
+    "category": "office"
+  },
+  "OFF-9980": {
+    "sku": "OFF-9980",
+    "name": "Office Ultra15",
+    "price": 984.78,
+    "stock": 165,
+    "category": "office"
+  },
+  "ELE-2874": {
+    "sku": "ELE-2874",
+    "name": "Electronics Max89",
+    "price": 659.88,
+    "stock": 5,
+    "category": "electronics"
+  }
+}
